@@ -8,7 +8,7 @@ html {
 body {
   font-family: 'Source Sans Pro', sans-serif;
   line-height: 1.5;
-  background: #F2F2F2;
+  background: #ff4141;
   color: #323232;
 }
 
@@ -38,7 +38,8 @@ a:hover {
   margin: 40px auto;
   padding: 32px;
   background: white;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 24px;
+    box-shadow: 14px -11px 7px 3px rgb(0 0 0 / 10%);
 }
 
 section {
@@ -63,7 +64,7 @@ section:last-child {
 ***********************************/
 
 img.avatar {
-  width: 130px;
+  width: 170px;
 }
 
 .my-name {
